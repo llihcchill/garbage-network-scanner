@@ -1,2 +1,2 @@
 # garbage-network-scanner
-(garbage) network scanner I developed and improved upon during a Ethical Hacking course :)
+(garbage) network scanner I developed and improved upon during an Ethical Hacking course :)
