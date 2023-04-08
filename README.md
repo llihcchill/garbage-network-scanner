@@ -3,5 +3,5 @@
 # Usage
 To run the program, open up your terminal, cd into the directory you downloaded the scanner, and run the following command:
 ```
-./netw-scanner.py <IP address>
+python3 netw-scanner.py <IP address you want to scan>
 ```
